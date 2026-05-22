@@ -6,12 +6,11 @@ Use this folder for the remaining FBA-002 family files and packaging assets.
 
 Required files:
 
-- `fba002-variants-overview.jpg`
 - `fba002-1-hero-render.jpg`
 - `fba002-2-hero-render.jpg`
 - `fba002-3-hero-render.jpg`
 - `fba002-4-hero-render.jpg`
-- `packaging-render.jpg`
+- `packaging-render.png`
 
 Optional later files:
 

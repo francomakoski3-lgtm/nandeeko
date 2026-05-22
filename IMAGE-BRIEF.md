@@ -41,9 +41,8 @@ La estrategia correcta es mostrarlo como una serie de desarrollo.
 
 ### Estructura recomendada
 
-1. Una imagen general del sistema completo.
-2. Una imagen hero por cada variante.
-3. Detalles solo para la variante finalista o para las dos variantes finalistas.
+1. Una imagen hero por cada variante.
+2. Detalles solo para la variante finalista o para las dos variantes finalistas.
 
 ### Por que esta estrategia es mejor
 
@@ -58,7 +57,6 @@ La estrategia correcta es mostrarlo como una serie de desarrollo.
 
 | Archivo final | Descripcion exacta |
 | --- | --- |
-| `fba002-variants-overview.jpg` | Render general mostrando juntas las cuatro variantes en la misma escena o bajo la misma direccion de estudio. Debe servir para explicar que es una familia, no una sola pieza. |
 | `fba002-1-hero-render.jpg` | Hero individual de la variante 1. |
 | `fba002-2-hero-render.jpg` | Hero individual de la variante 2. |
 | `fba002-3-hero-render.jpg` | Hero individual de la variante 3. |
@@ -72,7 +70,7 @@ La estrategia correcta es mostrarlo como una serie de desarrollo.
 | `fba002-2-detail-render.jpg` | Detalle solo si la variante 2 pasa a finalista. |
 | `fba002-3-detail-render.jpg` | Detalle solo si la variante 3 pasa a finalista. |
 | `fba002-4-detail-render.jpg` | Detalle solo si la variante 4 pasa a finalista. |
-| `packaging-render.jpg` | Packaging o presentacion para sourcing. |
+| `packaging-render.png` | Packaging o presentacion para sourcing. |
 
 ## 5. Criterios visuales para el disenador
 
