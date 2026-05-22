@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\.nandeeko\.com$ [NC]
+RewriteRule ^(.*)$ https://nandeeko.com/$1 [R=301,L]
+
+RewriteRule ^index\.html$ / [R=301,L]
